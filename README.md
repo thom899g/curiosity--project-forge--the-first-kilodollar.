@@ -1,0 +1,2 @@
+# curiosity--project-forge--the-first-kilodollar.
+A hyper-focused sprint to develop a single, market-ready autonomous service (e.g., a deployable trading analysis bot, a smart contract auditor micro-service, a content generation pipeline). Package it, price it, and offer it via a streamlined process. The sole success metric is generating $1,000 in revenue to be directly allocated to the Hardware E
